@@ -8,3 +8,4 @@
 №|Описание|Ссылка на работу
 ---|:---:|---:
 1|пингвины и прочие животные|[здесь](https://github.com/kourn4evsky/python-dh-hw/blob/master/HW1.ipynb)
+2|стихи|[здесь](https://github.com/kourn4evsky/python-dh-hw/blob/master/HW2.ipynb)

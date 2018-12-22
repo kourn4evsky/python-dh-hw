@@ -10,4 +10,4 @@
 1|Пингвины и прочие животные|[здесь](https://github.com/kourn4evsky/python-dh-hw/blob/master/HW1.ipynb)
 2|Стихи|[здесь](https://github.com/kourn4evsky/python-dh-hw/blob/master/HW2.ipynb)
 3|Анекдоты|[здесь](https://github.com/kourn4evsky/python-dh-hw/blob/master/HW3.ipynb)
-4|Гарри Поттер|TBA
+4|Гарри Поттер|[здесь](https://github.com/kourn4evsky/python-dh-hw/blob/master/HW4.ipynb)
